@@ -1,0 +1,14 @@
+transformers
+bitsandbytes
+accelerate
+xformers
+einops
+datasets
+sentence-transformers
+scikit-learn
+numpy
+torch
+rank-bm25
+scipy
+nltk
+requests

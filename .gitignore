@@ -1,0 +1,11 @@
+# JetBrains IDE settings
+.idea/
+
+# NumPy binary files
+*.npy
+
+# JSON files
+*.json
+
+# Parquet files
+*.parquet
